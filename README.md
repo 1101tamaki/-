@@ -4,9 +4,9 @@
 
 ## 開発環境
 
-* AWS Cloud9
-* Ruby
-* Git
+* AWS Cloud9<br>
+* Ruby<br>
+* Git(HTTPからSSH通信へ変更)
 * Heroku
 
 ```
